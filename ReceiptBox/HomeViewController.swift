@@ -26,4 +26,9 @@ class HomeViewController: UIViewController, Identifiable {
     testButton?.tintColor = .white
   }
   
+  
+  func setNav(){
+    
+  }
+  
 }
